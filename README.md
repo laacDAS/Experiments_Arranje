@@ -1,10 +1,10 @@
-# 🌾💻 Análise de Experimentos Agrícolas com Shiny
+# 🌾💻 Planejamento Experimental com AgroR + Shiny
 
-Esta é uma aplicação web interativa desenvolvida com o framework [Shiny](https://shiny.posit.co/) em R, destinada à análise estatística de experimentos agrícolas. A aplicação utiliza o pacote `AgroR` para realizar os cálculos e análises.
+Esta é uma aplicação web interativa desenvolvida com o framework [Shiny](https://shiny.posit.co/) em R, destinada sorteio de experimentos.
 
 ## 🌐 Visão Geral
 
-O objetivo deste projeto é fornecer uma interface gráfica amigável para que pesquisadores e estudantes da área de ciências agrárias possam analisar seus dados experimentais de forma rápida e intuitiva, sem a necessidade de escrever código R complexo.
+O objetivo deste projeto é fornecer uma interface gráfica amigável para que pesquisadores e estudantes da área de ciências agrárias possam planejar seus experimentos de forma rápida e intuitiva, sem a necessidade de escrever código R complexo.
 
 ## ▶️ Como Executar o Projeto
 
